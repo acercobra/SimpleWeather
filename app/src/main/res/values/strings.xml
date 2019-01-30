@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">SimpleWeather</string>
     <string name="action_settings">Settings</string>
+    <string name="loading_weather">Loading Weather</string>
+    <string name="add_city_forecast">Add a city forecast</string>
+    <string name="icon_for_empty_weather_list">Icon for empty weather list</string>
+    <string name="could_not_get_top_cities">Couldn\'t get top cities</string>
+    <string name="retry">Retry</string>
 </resources>
